@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-099",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://PustanAlex.github.io/goit-js-hw-099",
   "scripts": {
     "start": "parcel ./*.html",
-    "build": "parcel build ./*.html --public-url /parcel-project-template/"
+    "build": "parcel build ./*.html --public-url /goit-js-hw-099/"
   },
   "repository": {
     "type": "git",
